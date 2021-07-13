@@ -24,7 +24,7 @@ app.use('/admin' , require('./routes/admin'));
 
 app.use('/auth' , require('./routes/auth'));
 
-const Port = process.env.PORT || 5000;
+const Port =5000;
 
 
 
